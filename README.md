@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![Banner Saya](img/benner.jpeg)
 
 <div align="center">
