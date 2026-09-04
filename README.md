@@ -10,7 +10,7 @@
 </div></br>
 <p align="center">
 
-<h2 align="center">Academic & Research Profiles</h2>
+<h2 align="center">Academic <br>& Education </h2>
 <p align="center">
   <a href="https://www.kaggle.com">
     <img src="https://banner2.cleanpng.com/20180704/yco/aaxr0rx61.webp" alt="kaggle" width="50" height="40"/>
@@ -24,20 +24,24 @@
     <img src="https://imgs.search.brave.com/kD1W3abNE4JuNUGv4KvSJkco9FpbADje_Cnxessck-o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zY29s/YXJ5LmNvbS9pbWFn/ZXMvdG9vbHMvc2Vt/YW50aWMtc2Nob2xh/ci9pY29uLnN2Zw" alt="Semantic Scholar" width="60" height="55"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-
 </p></br>
 
-<!--
-**ririndwiaryanti0709-alt/ririndwiaryanti0709-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+## Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=Cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+<img src="https://img.shields.io/badge/deepseek-1477D1?style=for-the-badge&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/notebooklm-000000?style=for-the-badge&logo=notebooklm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white"/>
+
+</div></br>
+
+<div align="center">
+<h2>My Github Static</h2>
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ririndwiaryanti0709-alt?cardType=octocat&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
+</div>
