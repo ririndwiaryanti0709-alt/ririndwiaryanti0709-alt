@@ -13,7 +13,7 @@
 <h2 align="center">Academic <br>& Education </h2>
 <p align="center">
   <a href="https://www.kaggle.com">
-    <img src="https://banner2.cleanpng.com/20180704/yco/aaxr0rx61.webp" alt="kaggle" width="50" height="40"/>
+    <img src="https://iconlogovector.com/uploads/images/2025/09/lg-68c75047217a6-Kaggle.webp" alt="kaggle" width="60" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.dicoding.com/">
