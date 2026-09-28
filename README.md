@@ -50,6 +50,8 @@
 <div align="center">
 <h2>My Github Static</h2>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ririndwiaryanti0709-alt?cardType=octocat&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ririndwiaryanti0709-alt&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ririndwiaryanti0709-alt)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ririndwiaryanti0709-alt&layout=compact)
 
 </div>
