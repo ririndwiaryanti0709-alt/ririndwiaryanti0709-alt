@@ -3,7 +3,7 @@
 <div align="center">
 <h2>Language & Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=php,javascript,html,css,git,github,laravel,python,mysql&theme,visualstudiocode=light)](https://skillicons.dev)</p>
+[![My Skills](https://skillicons.dev/icons?i=php,javascript,html,css,git,github,laravel,python,mysql&theme=light)](https://skillicons.dev)</p>
 
 </div></br>
 <p align="center">
