@@ -1,9 +1,9 @@
-![Banner Saya](img/benner.jpeg)
+![Ririn Dwi Aryanti](img/benner.jpeg)
 
 <div align="center">
-<h2>Language</h2>
+<h2>Language & Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=php,javascript,html,css&theme=light)](https://skillicons.dev)</p>
+[![My Skills](https://skillicons.dev/icons?i=php,javascript,html,css,git,github,laravel,python,mysql&theme=light)](https://skillicons.dev)</p>
 
 </div></br>
 <p align="center">
@@ -36,6 +36,16 @@
 <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white"/>
 
 </div></br>
+
+<div align="center">
+<h2>Basic certification</h2>
+
+| Nama Sertifikat                                                     | Penerbit                            | Link Verifikasi                                                                                   | Preview |
+|---------------------------------------------------------------------|-------------------------------------|---------------------------------------------------------------------------------------------------|---------|
+| **Intro to Machine Learn**                                           | Kaggle                            | [Verifikasi](https://www.kaggle.com/learn/certification/ririndwiaryanti07/intro-to-programming)                                  |     <img src="img\intro to Machine Learning.jpeg" width="70">    |
+| **Intro To Programming**                               | Kaggle                            | [Verifikasi](https://www.kaggle.com/learn/certification/ririndwiaryanti07/intro-to-programming)                                              |      <img src="img\Intro To Programming.jpeg" width="70">   |
+| **Pandas**                                      | Kaggle                            | [Verifikasi](https://www.kaggle.com/learn/certification/ririndwiaryanti07/pandas)                                              |   <img src="img\Pandas.jpeg" width="70">      |
+| **Python**          | Kaggle  | [Verfikasi](https://www.kaggle.com/learn/certification/ririndwiaryanti07/python) |   <img src="img\Python.jpeg" width="70">      |
 
 <div align="center">
 <h2>My Github Static</h2>
