@@ -1,4 +1,4 @@
-![Ririn Dwi Aryanti](img/benner.jpeg)
+![Ririn Dwi Aryanti](img\ririndwiaryanti.png)
 
 <div align="center">
 <h2>Language & Tools</h2>
